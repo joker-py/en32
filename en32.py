@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 #!/usr/bin/env python3
-from env import _get; _get(__file__)
 from os import getenv, system
 import time, asyncio
 import socket, threading
