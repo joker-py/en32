@@ -10,3 +10,4 @@
 
 1. It is not recommended to scan networks without administrator rights.
 2. ENTRY TO is beta.
+3. Python >= 3 required!
