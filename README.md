@@ -11,3 +11,5 @@
 1. It is not recommended to scan networks without administrator rights.
 2. ENTRY TO is beta.
 3. Python >= 3 required!
+
+git clone https://github.com/joker-py/en32
